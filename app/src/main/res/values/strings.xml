@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="text1">Enter a book name, or part of a book name, or just some text from a book to find the full book title and who wrote the book!</string>
+    <string name="edit1">Enter a Book Title</string>
+    <string name="button1">SEARCH BOOKS</string>
+    <string name="loading" />
+</resources>
